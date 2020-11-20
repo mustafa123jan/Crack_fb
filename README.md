@@ -6,7 +6,7 @@
 * apt update
 * apt upgrade
 * apt install git python2 -y
-* git clone https://gitlab.com/mustafa123jan/Crack_fb
+* git clone https://github.com/mustafa123jan/Crack_fb
 * cd Crack_fb
 
 #### Run > python2 Crackfb.py
